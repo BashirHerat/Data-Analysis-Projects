@@ -8,7 +8,9 @@ In 2023, I conducted [a Newcomer Housing Needs Assessment analysis](https://mans
 
 Following the Needs Assessment, I collaborated with approximately 20 partner organizations in Winnipeg to develop a [Community Action Plan](https://mansomanitoba.ca/resources/partnerships-for-better-housing-a-newcomer-housing-needs-assessment-by-altered-minds/). This plan outlines strategies for utilizing existing resources more efficiently to address the housing challenges faced by new Canadians. We discovered that improved coordination, closer collaboration, and the formation of new partnerships could significantly enhance our efforts.
 
-Key Findings and Recommendations:
+
+**Key Findings and Recommendations:**
+
 Enhanced coordination among organizations
 Closer collaboration between stakeholders
 Formation of new partnerships to leverage resources
